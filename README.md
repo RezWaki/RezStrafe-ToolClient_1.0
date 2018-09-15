@@ -1,6 +1,7 @@
 # RezStrafe-ToolClient_1.0
 CVARs list:
-CVAR                Available values
+
+CVAR | Available values
 
 *rez_timer*       | 1/0
 
