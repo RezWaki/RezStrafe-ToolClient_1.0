@@ -5,4 +5,4 @@ CVAR | Available values
 
 *rez_timer*       | 1/0
 
-*rez_timer_reset* | 1/9
+*rez_timer_reset* | 1/0
